@@ -1,0 +1,31 @@
+
+
+.movement{
+  font-family: 'MovementV';
+}
+  
+
+.mixal{
+  font-family: 'mixal';
+  font-variation-settings:"wght" 200;
+}
+  
+h2{
+font-size: 200px;
+color: blue;
+font-variation-settings: "SPAC" 118, "wght" 200;
+transform: rotate(10deg);
+}
+  
+#premier {
+position: relative;
+color: aqua;
+transform: rotate(10deg);
+z-index: -1;
+}
+  
+#deuxième {
+opacity: 0,5;
+mix-blend-mode:multiply;
+
+}
